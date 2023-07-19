@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wiltress
 - 👀 I’m interested in network and security
 - 🌱 I’m currently learning all where can speaking TIC
-- 💞️ I’m looking to collaborate on all persons 
+- 💞️ I’m looking to collaborate with all persons 
 - 📫 How to reach me wouapiwiltress@gmail.com
 
 <!---
